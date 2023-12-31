@@ -46,7 +46,8 @@ If you'd like to contribute to Daisy Delights, feel free to fork the repository 
 
 ## Contact
 If you have any questions or feedback, feel free to reach out:
-Email: 
+- Email: 
+
     ```bash
     bhartijayprakash19@gmail.com
 
