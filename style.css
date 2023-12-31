@@ -282,47 +282,42 @@ header {
 }
 
 .product1 img:hover {
-    content: url(../images/other_images/scattered_pdt1.jpeg);
+    content: url(../daisy-delights/images/other_images/scattered_pdt1.jpeg);
 
 }
 
 .product2 img:hover {
-    content: url(../images/other_images/scattered\ pdt2.jpeg)
+    content: url(./images/other_images/scattered\ pdt2.jpeg)
 }
 
 .product3 img:hover {
 
-    content: url(..//images/other_images/scattered\ pdt3.jpeg);
+    content: url(./images/other_images/scattered\ pdt3.jpeg);
 }
 
 .product4 img:hover {
 
-    content: url(..//images/other_images/scattered\ pdt4.jpeg);
+    content: url(./images/other_images/scattered\ pdt4.jpeg);
 }
 
 .product5 img:hover {
 
-    content: url(..//images/other_images/scattered\ pdt5.webp);
+    content: url(./images/other_images/scattered\ pdt5.webp);
 }
 
 .product6 img:hover {
 
-    content: url(..//images/other_images/scattered\ pdt6.avif);
+    content: url(./images/other_images/scattered\ pdt6.avif);
 }
 
 .product7 img:hover {
 
-    content: url(..//images/other_images/scattered\ pdt\ 7.jpeg);
+    content: url(./images/other_images/scattered\ pdt\ 7.jpeg);
 }
 
 .product8 img:hover {
 
-    content: url(../images/other_images/scattered\ pdt8.html);
-}
-
-.product8 img:hover {
-
-    content: url(..//images/other_images/stunning-image-featuring-red-pink-rose-flower-with-blank-space-middle_763042-535.avif);
+    content: url(./images/other_images/scattered_pdt8.avif);
 }
 
 
