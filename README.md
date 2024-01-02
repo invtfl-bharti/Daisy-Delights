@@ -17,7 +17,12 @@ Welcome to Daisy Delights, your premier destination for exquisite flowers and fl
 Daisy Delights is a web project developed by Bharti Jayprakash, combining expertise in web development and a keen eye for floral design. The website offers a seamless and delightful online flower shopping experience, providing a wide selection of fresh blooms for various occasions.
 
 ## Preview
-You can see a live preview here: https://invtfl-bharti.github.io/daisy-delights/
+You can see a live preview here: 
+- Live Preview:
+    ```bash
+    https://invtfl-bharti.github.io/daisy-delights/
+
+
 
 
 ## Features
